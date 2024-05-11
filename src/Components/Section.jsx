@@ -22,7 +22,7 @@ function Section() {
         </div>
         <div className="rating">
         <div className='stars'>
-            <img src="/Images/Stars image.png" alt="" width="70" height="30" /></div>
+            <img src="/Images/Stars image.png" alt="" width="170" height="30" /></div>
             <p className='review'>4.9/5 ratings on google</p>
         </div>
       </section>
